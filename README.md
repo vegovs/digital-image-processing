@@ -17,6 +17,6 @@ A comparison of speed between convolution filters in space and frequency domain.
 
 ### Lossy JPEG compression [:white_check_mark:](lossy_jpeg_compression/)
 An implementation of a lossy JPEG compression algorithm.
-![Original](lossy_jpeg_compression/2_1.png.png)
-![Compressed and usable](lossy_jpeg_compression/2_3.png.png)
-![Compressed beyond sanity](lossy_jpeg_compression/2_5.png.png)
+![Original](lossy_jpeg_compression/2_1.png)
+![Compressed and usable](lossy_jpeg_compression/2_3.png)
+![Compressed beyond sanity](lossy_jpeg_compression/2_5.png)
